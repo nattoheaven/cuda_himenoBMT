@@ -1,4 +1,4 @@
 cuda_himenoBMT
 ==============
 
-Porting of Himeno Benchmark for CUDA
+Porting of <a href="http://accc.riken.jp/HPC_e.html">Himeno Benchmark</a> for CUDA
